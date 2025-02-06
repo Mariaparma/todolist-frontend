@@ -1,0 +1,22 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(img/to\ do\ list.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container {
+    width: 40%;
+    margin: 0 auto;
+    padding: 60px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    margin: 40px auto;
+    padding: 0 20px;
+    justify-content: center;
+    align-items: center
+}
+
